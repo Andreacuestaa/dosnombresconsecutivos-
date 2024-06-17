@@ -1,0 +1,11 @@
+
+int main
+  int x;
+  int y;//y es menor que x
+  if (x== y+1) {
+   prinft ("Els models són consecutius")
+}
+else {
+  prinft ("Els nombres no són consecutius!");
+ }
+}
